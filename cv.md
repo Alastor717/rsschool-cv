@@ -2,7 +2,7 @@
 
 ## My contacts
 
-[yandex url](ya.ru)
+https://alastor717.github.io/rsschool-cv/
 
 
 another information
